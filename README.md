@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ashishangra17
+- 👋 Hi, I’m @ashishangra17, a data analytics professional and have taken up diverse roles like solution designer, data engineer, 
+     data science practioner, business analyst in my career that spans around 11 years.
 - 👀 I’m interested in Data Analytics, Data Engineering, Data Science and delivering value using data.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Impactful Data Analytics Use Cases.

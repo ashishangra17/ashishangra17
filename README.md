@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashishangra17
-- 👀 I’m interested in Data Analytics, Data Engineering and Data Science
+- 👀 I’m interested in Data Analytics, Data Engineering, Data Science and delivering value using data.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Impactful Data Analytics Use Cases.
 - 📫 How to reach me --> ashish.angra17@gmail.com
